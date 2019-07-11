@@ -6,10 +6,10 @@ body{
 }
 
 #header{
-  color: white;
+  color: black;
   text-align: center;
   letter-spacing: 3px;
-  text-shadow: 2px 2px #333333;
+  text-shadow: 2px 2px black;
 }
 
 .active{
@@ -36,10 +36,46 @@ li a {
   color: white;
   text-align: center;
   letter-spacing: 7px;
-  padding: 14px 25px;
+  padding: 14px 60.1px;
   text-decoration: none;
 }
 
 li a:hover {
   background-color: #111;
+}
+#tii{
+  color: black;
+  text-align: center;
+  font-size: 70px;
+  letter-spacing: 3px;
+  text-shadow: 2px 2px black;
+  font-family: Trebuchet MS;
+}
+#seed{
+  color: white;
+  font-size: 25px;
+  letter-spacing: 3px;
+  text-shadow: 2px 2px black;
+  font-family: Trebuchet MS;
+}
+#try{
+  float:left;
+  color: black;
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-family: Trebuchet MS;
+}
+#yg{
+  color: white;
+  font-size: 25px;
+  letter-spacing: 3px;
+  text-shadow: 2px 2px black;
+  font-family: Trebuchet MS;
+}
+#huhu{
+   float:left;
+  color: black;
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-family: Trebuchet MS;
 }
