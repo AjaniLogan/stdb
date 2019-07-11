@@ -37,7 +37,7 @@ li a {
   color: white;
   text-align: center;
   letter-spacing: 7px;
-  padding: 14px 33px;
+  padding: 14px 58.7px;
   text-decoration: none;
 }
 
@@ -55,7 +55,7 @@ li a:hover {
 }
 #jason{
   padding: 10px;
-  width: 450;
+  width: 450 px;
   font-size: 14pt;
   float: right;
   }
@@ -68,14 +68,14 @@ li a:hover {
 
   p{
     color: white;
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0,0,0,0.7);
     letter-spacing: 2px;
     font-style: bold;
   }
   #aj{
-    object-fit: cover;
-    height: 300px;
-    width: 300px;
+    object-fit: cover; 
+    height:300px;
+    width: 300px;;
     float: left;
   }
   #ajani{
@@ -98,4 +98,3 @@ li a:hover {
     #ousmane{
       float: right;
     }
-
