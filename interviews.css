@@ -1,0 +1,45 @@
+body{
+  background-image:url(https://www.tanikal.com/wp-content/uploads/2017/11/Press-interview-News-conference-1024x576.png);
+  background-position: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#header{
+  color: white;
+  text-align: center;
+  letter-spacing: 3px;
+  text-shadow: 2px 2px #333333;
+}
+
+.active{
+  background-color: white;
+  color: black;
+}
+ul {
+  list-style-type: none;
+  margin: -10px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  text-align: center;
+}
+
+li {
+  float: left;
+  text-align: right;
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  letter-spacing: 7px;
+  padding: 14px 24.2px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
